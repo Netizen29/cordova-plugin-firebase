@@ -48,6 +48,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 
 		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />
 		<framework src="com.google.android.gms:play-services-tagmanager:16.+" />
+		<framework src="com.google.android.gms:play-services-measurement-base:16.5+" />
 		<framework src="com.google.firebase:firebase-auth:17.+" />
 		<framework src="com.google.firebase:firebase-core:16.+" />
 		<framework src="com.google.firebase:firebase-messaging:18.+" />
